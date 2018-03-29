@@ -12,6 +12,7 @@
 		65E547491F27FBB900B621AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E547471F27FBB900B621AD /* Main.storyboard */; };
 		65E5474B1F27FBB900B621AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65E5474A1F27FBB900B621AD /* Assets.xcassets */; };
 		65E5474E1F27FBB900B621AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65E5474C1F27FBB900B621AD /* LaunchScreen.storyboard */; };
+		65E547581F29148D00B621AD /* button1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 65E547571F29148D00B621AD /* button1.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		65E5474A1F27FBB900B621AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65E5474D1F27FBB900B621AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65E5474F1F27FBB900B621AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65E547561F29147C00B621AD /* ADDECRG_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = ADDECRG_.TTF; sourceTree = "<group>"; };
+		65E547571F29148D00B621AD /* button1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = button1.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +58,8 @@
 			isa = PBXGroup;
 			children = (
 				65E547431F27FBB900B621AD /* AppDelegate.swift */,
+				65E547561F29147C00B621AD /* ADDECRG_.TTF */,
+				65E547571F29148D00B621AD /* button1.wav */,
 				65E547451F27FBB900B621AD /* ViewController.swift */,
 				65E547471F27FBB900B621AD /* Main.storyboard */,
 				65E5474A1F27FBB900B621AD /* Assets.xcassets */,
@@ -124,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65E547581F29148D00B621AD /* button1.wav in Resources */,
 				65E5474E1F27FBB900B621AD /* LaunchScreen.storyboard in Resources */,
 				65E5474B1F27FBB900B621AD /* Assets.xcassets in Resources */,
 				65E547491F27FBB900B621AD /* Main.storyboard in Resources */,
@@ -304,6 +310,7 @@
 				65E547541F27FBB900B621AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
